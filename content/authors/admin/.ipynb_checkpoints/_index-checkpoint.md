@@ -38,7 +38,7 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0001-5528-3421
 
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.com/citations?user=lpH2ZDYAAAAJ&hl=ja)
+    url: https://scholar.google.com/citations?user=lpH2ZDYAAAAJ&hl=ja
   - icon: brands/facebook
     url: https://www.facebook.com/profile.php?id=100022576542966&mibextid=LQQJ4d
   - icon: brands/instagram
