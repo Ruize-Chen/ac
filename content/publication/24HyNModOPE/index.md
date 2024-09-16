@@ -4,10 +4,13 @@ authors:
 - Yan Wang
 - admin
 - Zihao Zhang
-- ...
+- Zhiqiang Fu
+- Lijie Zhang
+- Feng Tan
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
 date: "2024-08-01T00:00:00Z"
 doi: "10.1016/j.scitotenv.2024.175838"
 
@@ -32,6 +35,7 @@ tags:
 - Hydroponics and Models 
 - Numerical Simulation
 - Kinetics Analysis
+- OPEs
 
 featured: True
 
