@@ -77,5 +77,11 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
 -- If you are interested in Marine Environmental Systems or relevant Marine/Ocean Engineering Simulation studies, you can check [_**Professor Shigeru Tabeta's Lab**_](https://mee.k.u-tokyo.ac.jp/).
+
 -- Read the full [article](https://www.sciencedirect.com/science/article/pii/S0025326X2300303X/pdfft?md5=aa0ba9de1848b44863640860b95ed16a&pid=1-s2.0-S0025326X2300303X-main.pdf).
+
+-- Background for The Fugacity Based Multimedia Model: 
+-- 1. Mackay, D., 2001. [_**Multimedia Environmental Models : The Fugacity Approach(2nd ed.)**_](https://www.taylorfrancis.com/books/mono/10.1201/9781420032543/multimedia-environmental-models-donald-mackay), Lewis Publishers, Boca Raton [Fla.] (2001)
+-- 2. Parnis, J.M. and Mackay, D., 2020. [_**Multimedia Environmental Models : The Fugacity Approach(3rd ed.)**_](https://www.taylorfrancis.com/books/mono/10.1201/9780367809829/multimedia-environmental-models-donald-mackay-mark-parnis), Lewis Publishers, Boca Raton [Fla.] (2020)
