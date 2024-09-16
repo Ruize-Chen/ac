@@ -48,6 +48,7 @@ sections:
     id: publication
     content:
       title: Selected Studies
+      count: 4
       filters:
         folders:
           - publication
@@ -59,6 +60,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 4
       filters:
         folders:
           - publication
