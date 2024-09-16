@@ -13,6 +13,7 @@ sections:
     content:
       title: Selected Studies
       count: 6
+      text: ""
       filters:
         folders:
           - publication
