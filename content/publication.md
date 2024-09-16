@@ -12,7 +12,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Selected Studies
+      title: Studies
       count: 4
       filters:
         folders:
