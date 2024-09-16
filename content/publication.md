@@ -11,6 +11,17 @@ design:
 sections:
   - block: collection
     content:
+      title: Studies
+      count: 4
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
+    content:
       title: Recent Publications
       text: ""
       count: 4
@@ -21,18 +32,5 @@ sections:
         exclude_future: true
     design:
       view: citation
-
-  - block: collection
-    id: publication
-    content:
-      title: Studies
-      count: 4
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
 
 ---
