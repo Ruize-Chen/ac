@@ -77,5 +77,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
--- If you are interested in Marine Environmental Systems or relevant Marine/Ocean Engineering Simulation studies, you can check [Professor Shigeru Tabeta's Lab](https://mee.k.u-tokyo.ac.jp/).
+-- If you are interested in Marine Environmental Systems or relevant Marine/Ocean Engineering Simulation studies, you can check [_**Professor Shigeru Tabeta's Lab**_](https://mee.k.u-tokyo.ac.jp/).
 -- Read the full [article](https://www.sciencedirect.com/science/article/pii/S0025326X2300303X/pdfft?md5=aa0ba9de1848b44863640860b95ed16a&pid=1-s2.0-S0025326X2300303X-main.pdf).
