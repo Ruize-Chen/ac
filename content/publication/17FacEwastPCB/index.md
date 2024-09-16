@@ -8,7 +8,7 @@ authors:
   - Xiaowei Wu
   - Minmin Hou
   - Hongxia Zhao
-  - Ruize Chen
+  - Admin
   - Chunling Luo
   - Gan Zhang
 
