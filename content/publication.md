@@ -1,5 +1,5 @@
 ---
-title: Publication
+title: 'Publication'
 date: 2023-05-19
 type: landing
 
