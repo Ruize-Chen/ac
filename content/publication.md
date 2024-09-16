@@ -10,21 +10,22 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: publication
     content:
       title: Selected Studies
-      count: 6
-      text: ""
+      count: 4
       filters:
         folders:
           - publication
         featured_only: false
     design:
       view: article-grid
-      columns: 3
+      columns: 2
   - block: collection
     content:
-      title: Peer-reviewed Publications
+      title: Recent Publications
       text: ""
+      count: 4
       filters:
         folders:
           - publication
