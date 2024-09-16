@@ -10,6 +10,7 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: publication
     content:
       title: Studies
       count: 4
@@ -24,7 +25,6 @@ sections:
     content:
       title: Peer-reviewed Publications
       text: ""
-      count: 4
       filters:
         folders:
           - publication
