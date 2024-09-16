@@ -46,7 +46,7 @@ tags:
   - PBDEs
 
 # Display this page in the Featured widget?
-featured: False
+featured: True
 
 # Custom links (uncomment lines below)
 # links:
