@@ -1,11 +1,11 @@
 ---
-title: Publications
-date: 2024-05-19
+title: Publication
+date: 2023-05-19
 type: landing
 
 design:
   # Section spacing
-  spacing: '6rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
@@ -22,7 +22,7 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: Peer-reviewed Publications
       text: ""
       count: 4
       filters:
