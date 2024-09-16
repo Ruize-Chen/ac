@@ -10,7 +10,6 @@ design:
 # Page sections
 sections:
   - block: collection
-    id : publication
     content:
       title: Selected Studies
       count: 6
