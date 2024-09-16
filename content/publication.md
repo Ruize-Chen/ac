@@ -12,6 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Studies
+      count: 6
       filters:
         folders:
           - publication
@@ -21,7 +22,7 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: Peer-reviewed Publications
       text: ""
       filters:
         folders:
