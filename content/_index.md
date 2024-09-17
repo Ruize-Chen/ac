@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Selected Studies
+      title: Studies Gallery
       count: 4
       filters:
         folders:
@@ -60,7 +60,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
-      count: 4
+      count: 3
       filters:
         folders:
           - publication
