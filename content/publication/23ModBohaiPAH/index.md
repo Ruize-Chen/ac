@@ -17,7 +17,7 @@ date: '2023-05-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.marpolbul.2023.114872'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '_Mar. Pollut. Bull._ 2023-03-01T00:00:00Z'
+publishDate: '2023-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,7 +26,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Marine Pollution Bulletin*"
-publication_short: "190(2023): 114872"
+publication_short: "_Mar. Pollut. Bull._ 190(2023): 114872"
 
 abstract: The target of this study was to reconstruct the historical concentration, distribution, variation, and exposure risk evaluation for EPA PAHs to the whole sea of Bohai Bay and the coastal population, by employing a specific dynamic multimedia model during 1950–2050. The unsteady-state model, driven by temporal energy activities from 1950 and sustainable scenarios based on socioeconomic development, indicated the annual emission increased by 4.6 times (from 84.8 tons to 391 tons) until 2020 and resulted in concentrations up to 5.2 times in the atmospheric compartment, and 4.9 times in seawater. Two peak concentrations in 1997 and 2014, consistent with total PAHs input revealed significant regional anthropogenic input in northern Bohai Bay (Tianjin) and southern Bohai Bay (Hebei). The peak-to-peak values of the timing concentration revealed a notably alternative increase in the south (+109.4 %–128.6 %), instead of the rapid decline in the north (−21.5 %–44.5 %). The dominant processes at air-seawater interfaces were air-seawater molecular transfer (from 38.4 % to 51.8 %), and wet deposition (from 60.5 % to 47.5 %). Under 5 shared socioeconomic pathways, the optimal scenario (SSP1) achieved a 24.7 % emission decline, an atmospheric decrease of 15.1 %–31.1 %, and 24.8 %–41.2 % mitigation in seawater during 2020–2050, and each pathway exhibited a general lessening concave in the northern developed municipality, compared with convex in the southern developing regions. The inhalation risk assessment evaluated 10 generations living on Bohai Bay coasts, with an acceptable result, while the current sustainable conceive was with meager fruition in reducing risk.
 
