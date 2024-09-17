@@ -4,35 +4,24 @@ type: landing
 
 sections:
   - block: collection
-    id: publication
+    id: papers
     content:
-      title: Publication
-      subtitle: ''
-      text: 'Check out my recent research!'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
+      title: Featured Publications
       filters:
-        # The folders to display content from
         folders:
           - publication
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+        featured_only: true
     design:
-      # Choose a listing view
-      view: card
-
-
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 ---
