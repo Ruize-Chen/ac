@@ -17,7 +17,7 @@ date: '2023-05-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.marpolbul.2023.114872'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-03-01T00:00:00Z'
+publishDate: '_Mar. Pollut. Bull._ 2023-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
