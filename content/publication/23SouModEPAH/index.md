@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Chemosphere*"
-publication_short: "_Chemosphere_ 350(2023): 141036 (if:8.8)"
+publication_short: "_Chemosphere_ 350(2023): 141036 (if: 8.8)"
 
 abstract: This study was performed to evaluate the variable indicators of polycyclic aromatic hydrocarbons (PAHs) source apportionment by using an unsteady-state multimedia model. The identical indicators have been used in different environmental bulks for more than 20 years, which resulted in huge errors in source apportionment. Generated through four emission arrays, the diagnostic ratios for indicators revealed dimensionless OR, in air/soil and seawater/sediment reached ∼3.63 and ∼0.24 for Fla/Pyr, and for Ant/Phe the ratio was ∼0.31 and ∼0.18, and coastal OR for air/seawater was higher than the offshore, suggesting both compartmental and spatial divergences. The PCA indicated similar loading distribution and primary factors, shared by emission, atmosphere, and seawater arrays, whereas the slow transport between air/water and soil/sediment, weak degradation, and original concentration level might result in factors in soil and sediment separated or merged in dynamic conditions. The physicochemical divergence of indicators could be intensified after long-term environmental transport, misleading the source apportionment. Therefore, the result elucidated the essential evaluation of additional inorganic indicators and necessary verification by simultaneous sampling measurement on vertical compartments.
 
