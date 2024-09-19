@@ -20,7 +20,7 @@ author_notes:
   - ''
 
 date: '2018-01-01T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.chemosphere.2018.03.182'
+doi: 'https://doi.org/10.1016/j.chemosphere.2018.03.182 (if:4.4)'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2018-06-01T00:00:00Z'
