@@ -28,7 +28,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
+---
 # View.
 view: citation
 
