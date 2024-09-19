@@ -29,8 +29,3 @@ sections:
     design:
       view: citation
 ---
-# View.
-view: citation
-
-# Optional header image (relative to `static/media/` folder).
----
