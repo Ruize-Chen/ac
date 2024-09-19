@@ -30,7 +30,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Science of The Total Environment*"
-publication_short: " _Sci. Total Environ._ 578 (2017), pp. 34-39"
+publication_short: " _Sci. Total Environ._ 578 (2017), pp. 34-39 (if: 4.9)"
 
 abstract: The diurnal atmospheric concentrations of polychlorinated biphenyls (PCBs) were investigated at an abandoned e-waste recycling site in South China during winter and summer. Total PCB concentrations during winter and summer were 27.6–212 and 368–1704 pg/m3 in the particulate phase and 270–697 and 3000–15,500 pg/m3 in the gaseous phase, respectively. Both gaseous and particulate PCB concentrations and compositions exhibited significant difference between winter and summer samples, but no diurnal variations during the measurement period. The correlation analysis between PCB concentrations and meteorological conditions, including atmospheric temperature, humidity, and mixing layer height, suggested that the seasonal variability of atmospheric PCB concentrations was strongly temperature-dependent, while the diurnal variability was probably source-dependent. The temperature-driven variations can also be proved by the significant linear correlation between ln P and 1/T in the Clausius-Clapeyron plot. Although government has implemented controls to reduce e-waste pollution, both the relatively high concentrations of PCBs and the diurnal variation in the air suggested that emissions from occasional e-waste recycling activities may still exist in this recycling area. These results underline the importance of continuing e-waste recycling site management long after abandonment.
 
